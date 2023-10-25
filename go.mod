@@ -18,7 +18,7 @@ require (
 	github.com/tendermint/tendermint v0.34.21
 	// github.com/forbole/bdjuno/v2/treasurenet v1.0.0
 	// github.com/maoaixiao1314/treasureapp v1.0.2
-	github.com/treasurenetprotocol/treasurenet v1.0.1-beta
+	github.com/treasurenetprotocol/treasurenet v1.0.2-231023-ibc
 	google.golang.org/grpc v1.48.0
 	gopkg.in/yaml.v3 v3.0.1
 )

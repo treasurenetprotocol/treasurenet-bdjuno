@@ -1494,6 +1494,8 @@ github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce/go.mod h1:o8v6yHRoi
 github.com/tommy-muehle/go-mnd/v2 v2.5.0/go.mod h1:WsUAkMJMYww6l/ufffCD3m+P7LEvr8TnZn9lwVDlgzw=
 github.com/treasurenetprotocol/treasurenet v1.0.1-beta h1:KXjRRykVy82nFuUhlssna4Y9GzoOrO/Zj1d4o01CXHc=
 github.com/treasurenetprotocol/treasurenet v1.0.1-beta/go.mod h1:20l5eDsQVEjx0mXcMjpEEMeEruYpCguqygOnh7Mjano=
+github.com/treasurenetprotocol/treasurenet v1.0.2-231023-ibc h1:qjpcbjGcDrJHN2X62sfw5UvbQ6jPDKGbDDzPZCPttzY=
+github.com/treasurenetprotocol/treasurenet v1.0.2-231023-ibc/go.mod h1:81Ss+Zk1bYK0oy0v4Qch+P2xFVPC5MyYXmDjMxAcpjA=
 github.com/ttacon/chalk v0.0.0-20160626202418-22c06c80ed31/go.mod h1:onvgF043R+lC5RZ8IT9rBXDaEDnpnw/Cl+HFiw+v/7Q=
 github.com/tv42/httpunix v0.0.0-20150427012821-b75d8614f926/go.mod h1:9ESjWnEqriFuLhtthL60Sar/7RFoluCcXsuvEwTV5KM=
 github.com/tv42/httpunix v0.0.0-20191220191345-2ba4b9c3382c/go.mod h1:hzIxponao9Kjc7aWznkXaL4U4TWaDSs8zcsY4Ka08nM=
